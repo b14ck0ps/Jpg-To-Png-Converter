@@ -19,4 +19,4 @@ for filename in os.listdir(image_folder):
     print(f'{filename} \t--->\t {clean_name}.png\t\tdone')
 
 
-#python JpgToPngConverter.py ./pokedex/ ./png/
+#python JpgToPngConverter.py ./'put your jpg here'/ ./'converted png'/
