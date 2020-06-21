@@ -1,17 +1,13 @@
-### Jpg-To-Png-Converter
+## Jpg-To-Png-Converter
 
-------------
 
-###### How to use this script:
-- Requirement
-	- Python 3
-	- [Pillow Package](https://pypi.org/project/Pillow/2.2.1/ "Pillow Package")
+### Prerequisites
 
-- Run:
-	- Just run on cmd ```
+- Python 3
+- [Pillow Package](https://pypi.org/project/Pillow/2.2.1/ "Pillow Package")
+
+### Installing
+Just run on cmd
+```
 python JpgToPngConverter.py 
-```  for default setup
-
-
-------------
-
+```
