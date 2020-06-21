@@ -1,5 +1,17 @@
-# Jpg-To-Png-Converter
-To run this script :
-python JpgToPngConverter.py ./'put your jpg here'/ ./'converted png'/
+### Jpg-To-Png-Converter
 
-./'put your jpg here'/ is the Input folder and ./'converted png'/ is the output folder
+------------
+
+###### How to use this script:
+- Requirement
+	- Python 3
+	- [Pillow Package](https://pypi.org/project/Pillow/2.2.1/ "Pillow Package")
+
+- Run:
+	- Just run on cmd ```
+python JpgToPngConverter.py 
+```  for default setup
+
+
+------------
+
